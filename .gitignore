@@ -11,6 +11,7 @@ pids
 logs
 results
 
+.idea
 .DS_Store
 
 node_modules
